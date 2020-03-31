@@ -1,0 +1,8 @@
+crnk:
+  resourcePackage: com.aoher.domain
+  domainName: http://localhost:9090/aoher
+  pathPrefix: /api
+
+server:
+  context-path: /aoher
+  port: 9090
